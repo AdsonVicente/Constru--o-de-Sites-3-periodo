@@ -1,0 +1,17 @@
+main {
+    background-color: rgb(229, 143, 143);
+    color: white;
+    
+}
+/* .container,
+    .container-fluid {
+    padding-left: 0.5rem; 
+    }*/
+
+.color-black {
+    color: black;
+}    
+
+.border-gray {
+    border: solid 2px gray;
+}
